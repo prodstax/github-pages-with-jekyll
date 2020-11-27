@@ -1,3 +1,3 @@
-# Welcome to my blog
+# How's The Weather? 
 
-I'm glad you are here. I plan to talk about the content I want on my homepage.
+Whether you like it or not, we hope you're not under it. :cloud:
